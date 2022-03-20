@@ -38,8 +38,8 @@ Sou iniciante em programação e comecei a programar porque cresci em uma locado
 Leio quadrinhos, webcomics e mangás nas horas vagas, amo jogar video games, principalmente jogos dificeis (oiii Celeste), adoro acompanhar a industria de games (jogos indies são minha paixão) e não dispenso um bom cafezinho! :coffee:
 
 
-Você pode me encontrar no meu [Twitter](https://twitter.com/eindreus) (eu reclamo muito da vida, mas prometo que sou legal <img src="https://cdn.betterttv.net/emote/5a16ee718c22a247ead62d4a/1x" />)</br>
+Você pode me encontrar no meu [Twitter](https://twitter.com/eindreus) e no [Discord](https://discordapp.com/users/212966707516407810) (eu reclamo muito da vida, mas prometo que sou legal <img src="https://cdn.betterttv.net/emote/5a16ee718c22a247ead62d4a/1x" />)</br>
 
 ## 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eindrius&show_icons=true&title_color=A40000&icon_color=D3B200&text_color=939393&bg_color=FFFFFF&border_color=D3B200&border_radius=30)](https://github.com/eindrius/github-readme-stats&count_private=true) [![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eindrius&layout=compact&title_color=A40000&icon_color=D3B200&text_color=939393&bg_color=FFFFFF&border_color=D3B200&border_radius=30)](https://github.com/eindrius/github-readme-stats)
+[![eindrius' GitHub stats](https://github-readme-stats.vercel.app/api?username=eindrius&show_icons=true&title_color=A40000&icon_color=D3B200&text_color=939393&bg_color=FFFFFF&border_color=D3B200&border_radius=30)](https://github.com/eindrius/github-readme-stats&count_private=true) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eindrius&layout=compact&title_color=A40000&icon_color=D3B200&text_color=939393&bg_color=FFFFFF&border_color=D3B200&border_radius=30&card_width=250)](https://github.com/eindrius/github-readme-stats)
 
