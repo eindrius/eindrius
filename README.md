@@ -27,6 +27,8 @@ Sou iniciante em programação e comecei a programar porque cresci em uma locado
 
 ### Estou aprendendo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="32" height="32"/>
 
 
 ### Tenho interesse
